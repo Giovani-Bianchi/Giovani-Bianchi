@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estudando programação desde 2022<br>📚 Estou atualmente aprendendo Next.js, React, TypeScript, Tailwind e Shadcn UI.</p>
+<p align="left">✨ Estudando programação desde 2022<br>📚 Estou atualmente aprendendo Next.js, React, TypeScript, Tailwind e Shadcn UI</p>
 
 ![Giovani-Bianchi's Stats](https://github-readme-stats.vercel.app/api?username=Giovani-Bianchi&theme=dark&show_icons=true&hide_border=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Giovani-Bianchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Bianchi&theme=dark&show_icons=true&hide_border=true&layout=compact)
