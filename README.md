@@ -48,13 +48,6 @@
 
 <div>&nbsp;</div>
 
-[<img height="70px" alt="Warpnet" src="https://github.com/user-attachments/assets/6395425e-8dd4-4ac4-bef6-eeeb6ba95757"/>](https://github.com/Giovani-Bianchi/rs-solutions-challenge)
-
-**RS Solutions Challenge** --> [Repositório do Projeto](https://github.com/Giovani-Bianchi/rs-solutions-challenge) \
-Trabalhei no Front-End • Em grupo • Projeto estilo Hackathon \
-Linguagens e Tecnologias que utilizei: `Next.js`, `React`, `TypeScript`, `Tailwind`, `Shadcn UI`, `Figma` e `Docker`\
-<br/>
-
 [<img height="50px" alt="Warpnet" src="https://github.com/user-attachments/assets/f6f322c7-7587-46b2-9e97-760b7da8ebac"/>](https://github.com/Giovani-Bianchi/agendei-js)
 
 **Agendei JS** --> [Repositório do Projeto](https://github.com/Giovani-Bianchi/agendei-js) \
